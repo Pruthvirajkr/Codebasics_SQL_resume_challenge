@@ -8,25 +8,25 @@
 
 ## Project Overview:
 
-> - This project was created to meet the urgent need for prompt and well-informed decision-making at Atliq Hardware by addressing specific ad-hoc requests. My goal through this endeavor was to equip the company with data-driven insights essential for their strategic business decisions.
+ - This project was created to meet the urgent need for prompt and well-informed decision-making at Atliq Hardware by addressing specific ad-hoc requests. My goal through this endeavor was to equip the company with data-driven insights essential for their strategic business decisions.
 
 ### About Atliq Hardware:
 
-> - Atliq Hardware is a leading figure in the computer hardware industry, recognized for its innovative products and wide-ranging market presence spanning across India and 
+ - Atliq Hardware is a leading figure in the computer hardware industry, recognized for its innovative products and wide-ranging market presence spanning across India and 
   globally.
 
 ### Challenge Description:
 
-> - The challenge was to enhance Atliq Hardware's analytics capabilities by solving 10 ad-hoc business queries. These queries were essential for the management to make 
+ - The challenge was to enhance Atliq Hardware's analytics capabilities by solving 10 ad-hoc business queries. These queries were essential for the management to make 
   informed strategic decisions. The objective was to utilize SQL to derive insights from the given dataset and present these findings effectively.
 
 ## Tools and Technologies:
 
-> **MySQL**: Used for crafting precise SQL queries and performing data analysis.
+ - **MySQL**: Used for crafting precise SQL queries and performing data analysis.
 
-> **MS Excel**: Employed for visualizing and interpreting data.
+ - **MS Excel**: Employed for visualizing and interpreting data.
 
-> **Microsoft Power BI**: Utilized for creating compelling presentations of the insights.
+ - **Microsoft Power BI**: Utilized for creating compelling presentations of the insights.
 
 
 ## Key Insights and Learnings:
