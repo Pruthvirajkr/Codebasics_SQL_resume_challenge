@@ -4,4 +4,4 @@ Atliq Hardware (imaginary company) is one of India’s leading computer hardware
 
 Challenge link: https://codebasics.io/challenge/codebasics-resume-project-challenge/7
 
-Complete output(Notion): 
+Complete output(Notion): https://www.notion.so/SQL-Challenge-dead043ee1ff4781a53759b461edb243
