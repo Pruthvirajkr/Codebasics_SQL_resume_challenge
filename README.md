@@ -56,7 +56,7 @@
 
 ### Business-Centric Problem Solving
 
-**Analytical Skills**: Enhanced problem-solving abilities by applying SQL to real-world scenarios, providing solutions that align with business goals.
+- **Analytical Skills**: Enhanced problem-solving abilities by applying SQL to real-world scenarios, providing solutions that align with business goals.
 
 ## Project Achievements:
 
@@ -64,7 +64,7 @@
 
 - **Strategic Insights**: Analyzed net sales percentage share across various regions to guide strategic decisions.
 
- **Data-Driven Solutions**: Utilized insights to derive effective business strategies and enhance decision-making processes.
+- **Data-Driven Solutions**: Utilized insights to derive effective business strategies and enhance decision-making processes.
 
 ## Conclusion
 This project was an enriching experience that honed my SQL skills and provided deep insights into business analytics. The outcomes of this project hold significant potential for driving impactful business strategies at Atliq Hardware.
