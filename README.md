@@ -50,9 +50,9 @@
 
 ### Complex Data Structures:
 
-**Entity-Relationship Diagrams (ERD)**
+- **Entity-Relationship Diagrams (ERD)**
 
-**Extract, Transform, Load (ETL)**
+- **Extract, Transform, Load (ETL)**
 
 ### Business-Centric Problem Solving
 
