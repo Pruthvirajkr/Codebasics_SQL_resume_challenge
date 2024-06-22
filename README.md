@@ -23,7 +23,9 @@
 ## Tools and Technologies:
 
 **MySQL**: Used for crafting precise SQL queries and performing data analysis.
+
 **MS Excel**: Employed for visualizing and interpreting data.
+
 **Microsoft Power BI**: Utilized for creating compelling presentations of the insights.
 
 
@@ -35,8 +37,11 @@
 
 ### Advanced SQL Techniques:
 - **Common Table Expressions (CTE)**
+
 - **JOIN Operations**
+
 - **Stored Procedures (SP)**
+
 - **Subqueries**
 
 ### Real-World Application:
@@ -46,6 +51,7 @@
 ### Complex Data Structures:
 
 **Entity-Relationship Diagrams (ERD)**
+
 **Extract, Transform, Load (ETL)**
 
 ### Business-Centric Problem Solving
@@ -55,7 +61,9 @@
 ## Project Achievements:
 
 - **Comprehensive Reports**: Developed reports that highlight top-performing markets, products, and customer segments.
+
 - **Strategic Insights**: Analyzed net sales percentage share across various regions to guide strategic decisions.
+
  **Data-Driven Solutions**: Utilized insights to derive effective business strategies and enhance decision-making processes.
 
 ## Conclusion
